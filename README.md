@@ -1,7 +1,6 @@
-# What a scam
-
-A new Flutter project.
-
-## Getting Started
-
-FlutterFlow projects are built to run on the Flutter _stable_ release.
+# V Hack 2024
+</br> Member:
+</br> 1. Mok Wenyi
+</br> 2. Tan Hon Teck
+</br> University:
+</br> Universiti Teknologi Malaysia (UTM)
