@@ -46,9 +46,9 @@ class _SelectionWidgetState extends State<SelectionWidget> {
               children: [
                 Padding(
                   padding:
-                      const EdgeInsetsDirectional.fromSTEB(16.0, 16.0, 0.0, 16.0),
+                      const EdgeInsetsDirectional.fromSTEB(16.0, 50.0, 0.0, 16.0),
                   child: Text(
-                    'What a scam',
+                    'Scam Slayer',
                     textAlign: TextAlign.start,
                     style: FlutterFlowTheme.of(context).headlineLarge.override(
                           fontFamily: 'Outfit',
